@@ -1,0 +1,7 @@
+student@lab215-ws28 MINGW64 ~/Downloads/SI_171058_lab1 (logs)
+$ git log
+commit 69c7e65e4e6b89c3f3e6534f70bd3f13c87e3dec (HEAD -> logs, origin/master, master)
+Author: student <student@labstudenti.finki.ukim.mk>
+Date:   Thu Apr 4 09:39:26 2019 +0200
+
+    Initial commit
